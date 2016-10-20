@@ -1,0 +1,21 @@
+html,body{background: #f9f9f9;height: 100%;width: 100%;}
+a{color:#999;}
+a:hover{color:#999;}
+.wrap{width: 100%;height: 100%;}
+.logo{text-align: center;margin-bottom: 40px;}
+.logo span{display: inline-block; width: 49px;height: 48px;background-image: url(../images/logo/milogo.png);}
+.logbox{background: #fff;padding-bottom: 80px;padding-top: 30px; margin-top:8%;}
+.title{font-size: 30px;line-height:40px;text-align: center;margin-bottom: 20px;}
+.form-group{margin-top: 20px;}
+.form-group label{font-size: 14px;line-height: 24px;}
+.form-group input{height: 40px;}
+.form-group button{width: 100%;height:42px;background: #ff6700;color:#fff;margin-top:20px;}
+.register{text-align: center;margin-top: 30px;}
+.register a:hover{color: #ff6700;}
+.register span{margin:0 20px;color:#ddd;}
+.oth_title{border-top: 1px solid #e0e0e0;
+padding-top: 10px;}
+.bot{height: 80px;margin-top: -80px;color:#999;}
+.langue{margin-top:2%;}
+.langue span{margin:0 14px;}
+.desc{margin-top: 2%;}

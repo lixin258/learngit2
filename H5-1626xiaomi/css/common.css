@@ -1,0 +1,22 @@
+body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6,form, fieldset, input, p{margin:0;padding:0;}
+li,ul,ol{list-style:none;}
+img{border-style:none;}
+body{font:12px "微软雅黑"}
+.left{float:left;}
+.right{float:right;}
+a{text-decoration:none;color:rgba(255,255,255,0.7);}
+a:hover{color:none;text-decoration: none;}
+
+em,i,{font-style:normal}
+strong,b,h1,h2,h3,h4,h5,h6{font-weight:normal;}
+.p_0{padding: 0!important;}
+.m_0{margin: 0!important;}
+.pl_0{padding-left: 0!important;}
+.pr_0{padding-right: 0!important;}
+.pt_0{padding-top: 0!important;}
+.pb_0{padding-bottom: 0!important;}
+.ml_0{margin-left: 0!important;}
+.mr_0{margin-right: 0!important;}
+.mt_0{margin-top: 0!important;}
+.mb_0{margin-bottom: 0!important;}
+.clearfix:after{content:".";clear:both;display: block;height:0;overflow: hidden;visibility: hidden;}

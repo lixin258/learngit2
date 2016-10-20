@@ -1,0 +1,30 @@
+﻿
+	{
+		"reason":"success",
+		"result":[
+					{
+						"booklist_title":"围城",
+						"booklist_info":"爱上对对方过后就方过对方过后就后就哭了",
+						"booklist_author":"李鑫",
+						"booklist_price":"￥9.99",
+						"booklist_img":"http://cover.read.duokan.com/mfsv2/download/fdsc3/p015lY1uaQaQ/tgPdxEAn1VcWpv.jpg!t",
+						"id":"01"
+					},	
+					{
+						"booklist_title":"死神",
+						"booklist_info":"爱上对方过后对方过后就对方过后就就哭了",
+						"booklist_author":"张威",
+						"booklist_price":"￥9.99",
+						"booklist_img":"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01fjZLNSUOp/UOBuZSyYRNNV7S.jpg!t",
+						"id":"02"
+
+					}	
+					
+
+				],
+					
+		"error_code":0		
+	}
+
+
+

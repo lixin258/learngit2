@@ -1,0 +1,30 @@
+{
+	"reason":"success",
+	"result":[
+				{
+					"booklist_title":"围城",
+					"booklist_info":"爱上对方过后就哭了",
+					"booklist_author":"李鑫",
+					"booklist_img":{
+									"booklist_img_sm":"../images/img/booklist.jpg",
+									"booklist_img_bg":"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01t5LqCRByT/QksUPkJ31eqFzN.jpg!e"
+									},
+					"pid":"01"
+				},	
+				{
+					"booklist_title":"死神",
+					"booklist_info":"号就爱世界第四发飞机抵达",
+					"booklist_author":"张威",
+					"booklist_img":{
+									"booklist_img_sm":"../images/img/booklist.jpg",
+									"booklist_img_bg":"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01t5LqCRByT/QksUPkJ31eqFzN.jpg!e"
+									},
+					"pid":"02"
+
+				}
+				
+
+			],
+				
+	"error_code":0		
+}

@@ -1,0 +1,1518 @@
+{
+	"reason":"success",
+	"result":[
+				{
+					"pid":"01",
+					"name":"小米5s",
+					"imgclass":[
+						{"img":"images/describe/xiaomi5s-yinse.jpg"},
+						{"img":"images/describe/xiaomi5s-huise.jpg"},
+						{"img":"images/describe/xiaomi5s-jinse.jpg"},
+						{"img":"images/describe/xiaomi5s-meiguijin.jpg"}
+					],
+					"descimg":"images/describe/mi5s-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"骁龙821处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1999元",
+							"type":"3GB内存+64GB容量",
+							"color_class":[
+								{"color":"银色"},
+								{"color":"深灰"},
+								{"color":"金色"},
+								{"color":"玫瑰金"}
+							]
+						},
+						{
+							"desc":"骁龙821处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2299元",
+							"type":"4GB内存+128GB容量",
+							"color_class":[
+								{"color":"银色2"},
+								{"color":"深灰"},
+								{"color":"金色"},
+								{"color":"玫瑰金"}
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"02",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"03",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"04",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"05",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"06",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"07",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"08",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"09",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"10",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"11",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"12",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"13",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"14",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"15",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"16",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"17",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"18",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"19",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"20",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"21",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"22",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"23",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"24",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"25",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"26",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"27",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"28",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"29",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"30",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"31",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"32",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				},
+				{
+					"pid":"33",
+					"name":"小米5",
+					"imgclass":[
+						{"img":"images/describe/mi5-hei.jpg"},
+						{"img":"images/describe/mi5-yin.jpg"},
+						{"img":"images/describe/mi5-jin.jpg"},
+						{"img":"images/describe/mi5-zi-webfile.jpg"}
+					],
+					"descimg":"images/describe/mi5-shenruliaojie.jpg",
+					"edition":[
+						{
+							"desc":"高通骁龙820处理器 最高主频 1.8GHz，3GB内存，32GB容量，全网通3.0",
+							"price":"1599元",
+							"type":"标准版 3GB内存+32GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，3GB内存，64GB容量，全网通3.0",
+							"price":"1799元",
+							"type":"高配版 3GB内存+64GB容量",
+							"color_class":[
+								{"color":"黑色"},
+								{"color":"白色"},
+								{"color":"金色"},
+								{"color":"淡紫色"}
+							]
+						},
+						{
+							"desc":"高通骁龙820处理器 最高主频 2.15GHz，4GB内存，128GB容量，全网通3.0",
+							"price":"2399元",
+							"type":"尊享版 4GB内存+128GB容量",
+							"color_class":[
+								{"color":"黑色"}
+								
+							]
+						}
+
+					]
+					
+				}
+				
+
+			],
+				
+	"error_code":0		
+}

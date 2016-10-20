@@ -1,0 +1,198 @@
+{
+	"reason":"success",
+	"result":[
+			{	
+				"attr":"手机",
+				"id":"01",
+				"img":"images/classfield/classfield1/classfield_002.jpg",
+				"name":"小米5S",
+				"desc":"“暗夜之眼”超感光相机，无孔式超声波指纹识别<br>骁龙 821 旗舰处理器，全金属一体化机身",
+				"price":"1999"
+			},
+			{	
+				"attr":"手机",
+				"id":"02",
+				"img":"images/classfield/classfield1/classfield_003.jpg",
+				"name":"小米手机5",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"1599"
+			},
+			{	
+				"attr":"手机",
+				"id":"03",
+				"img":"images/classfield/classfield1/classfield_004.jpg",
+				"name":"小米5S PLUS",
+				"desc":"“骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"手机",
+				"id":"04",
+				"img":"images/classfield/classfield1/classfield_005.jpg",
+				"name":"小米Max",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2009"
+			},
+			{	
+				"attr":"手机",
+				"id":"06",
+				"img":"images/classfield/classfield1/classfield_006.jpg",
+				"name":"红米Note 4",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2129"
+			},
+			{	
+				"attr":"手机",
+				"id":"07",
+				"img":"images/classfield/classfield1/classfield_007.jpg",
+				"name":"红米手机3S",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2199"
+			},
+			{	
+				"attr":"手机",
+				"id":"08",
+				"img":"images/classfield/classfield1/classfield_008.jpg",
+				"name":"红米Note 3",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"手机",
+				"id":"09",
+				"img":"images/classfield/classfield1/classfield_009.jpg",
+				"name":"红米Pro",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"手机",
+				"id":"09",
+				"img":"images/classfield/classfield1/classfield_010.jpg",
+				"name":"红米手机3",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+
+			{	
+				"attr":"手机",
+				"id":"10",
+				"img":"images/classfield/classfield1/classfield_011.jpg",
+				"name":"小米平板 2",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"20",
+				"img":"images/classfield/classfield3/classfield3_002.jpg",
+				"name":"小米电视3s 65英寸",
+				"desc":"人工智能电视 原装三星真 4K 屏<br>内置PatchWall拼图墙 标配独立音响，支持环绕立",
+				"price":"4999"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"21",
+				"img":"images/classfield/classfield3/classfield3_003.jpg",
+				"name":"小米电视3s 55英寸",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"1599"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"22",
+				"img":"images/classfield/classfield3/classfield3_004.jpg",
+				"name":"小米电视3s 43英寸",
+				"desc":"“骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"23",
+				"img":"images/classfield/classfield3/classfield3_005.jpg",
+				"name":"小米电视3s 48英寸",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"24",
+				"img":"images/classfield/classfield3/classfield3_006.jpg",
+				"name":"小米电视3 55英寸",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"25",
+				"img":"images/classfield/classfield3/classfield3_007.jpg",
+				"name":"小米电视3 60英寸",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"26",
+				"img":"images/classfield/classfield3/classfield3_008.jpg",
+				"name":"小米电视3s 65英寸",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"27",
+				"img":"images/classfield/classfield3/classfield3_009.jpg",
+				"name":"小米电视3 70英寸",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"29",
+				"img":"images/classfield/classfield3/classfield3_010.jpg",
+				"name":"小米电视主机",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"30",
+				"img":"images/classfield/classfield3/classfield3_011.jpg",
+				"name":"小米盒子3 增强版",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"31",
+				"img":"images/classfield/classfield3/classfield3_012.jpg",
+				"name":"小米盒子3",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"32",
+				"img":"images/classfield/classfield3/classfield3_013.jpg",
+				"name":"小米盒子mini版",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			},
+			{	
+				"attr":"电视 · 盒子",
+				"id":"33",
+				"img":"images/classfield/classfield3/classfield3_014.jpg",
+				"name":"小米低音炮",
+				"desc":"骁龙820处理器，最大可选4GB 内存+128GB闪存4轴防抖相机，3D陶瓷/玻璃机身",
+				"price":"2299"
+			}
+
+			
+
+
+
+
+	],
+				
+	"error_code":0		
+}

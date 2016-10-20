@@ -1,0 +1,430 @@
+{
+	"reason":"success",
+	"result":[
+				{
+					"id":"001",
+					"attr":"小米手机",
+					"name":"小米5",
+					"price":"1999元起",
+					"img":"images/navmenu/nav01.jpg"
+				},
+				{
+					"id":"002",
+					"attr":"小米手机",
+					"name":"小米5 Plus",
+					"price":"2299元起",
+					"img":"images/navmenu/nav02.jpg"
+				},
+				{
+					"id":"003",
+					"attr":"小米手机",
+					"name":"小米5 Plus",
+					"price":"2299元起",
+					"img":"images/navmenu/nav03.jpg"
+				},
+				{
+					"id":"004",
+					"attr":"小米手机",
+					"name":"小米5 Plus",
+					"price":"2299元起",
+					"img":"images/navmenu/nav04.jpg"
+				},
+				
+				{
+					"id":"005",
+					"attr":"红米",
+					"name":"红米Pro",
+					"price":"1499元起",
+					"img":"images/navmenu/nav05.jpg"
+				},
+				{
+					"id":"006",
+					"attr":"红米",
+					"name":"红米Pro",
+					"price":"1499元起",
+					"img":"images/navmenu/nav06.jpg"
+				},
+				{
+					"id":"007",
+					"attr":"红米",
+					"name":"红米Pro",
+					"price":"1499元起",
+					"img":"images/navmenu/nav07.jpg"
+				},
+				{
+					"id":"008",
+					"attr":"红米",
+					"name":"红米Pro",
+					"price":"1499元起",
+					"img":"images/navmenu/nav08.jpg"
+				},
+				{
+					"id":"009",
+					"attr":"红米",
+					"name":"红米Pro",
+					"price":"1499元起",
+					"img":"images/navmenu/nav09.jpg"
+				},
+				{
+					"id":"010",
+					"attr":"红米",
+					"name":"红米Pro",
+					"price":"1499元起",
+					"img":"images/navmenu/nav10.jpg"
+				},
+				{
+					"id":"011",
+					"attr":"平板 · 笔记本",
+					"name":"小米平板2 16GB",
+					"price":"999元",
+					"img":"images/navmenu/nav11.jpg"
+				},
+				{
+					"id":"012",
+					"attr":"平板 · 笔记本",
+					"name":"小米平板2 16GB",
+					"price":"999元",
+					"img":"images/navmenu/nav12.jpg"
+				},
+				{
+					"id":"013",
+					"attr":"平板 · 笔记本",
+					"name":"小米平板2 16GB",
+					"price":"999元",
+					"img":"images/navmenu/nav13.jpg"
+				},
+				{
+					"id":"014",
+					"attr":"平板 · 笔记本",
+					"name":"小米平板2 16GB",
+					"price":"999元",
+					"img":"images/navmenu/nav14.jpg"
+				},
+				{
+					"id":"015",
+					"attr":"平板 · 笔记本",
+					"name":"小米平板2 16GB",
+					"price":"999元",
+					"img":"images/navmenu/nav15.jpg"
+				},
+				{
+					"id":"016",
+					"attr":"电视",
+					"name":"小米电视3s 43英寸",
+					"price":"1799元",
+					"img":"images/navmenu/nav16.png"
+				},
+				{
+					"id":"017",
+					"attr":"电视",
+					"name":"小米电视3s 43英寸",
+					"price":"1799元",
+					"img":"images/navmenu/nav17.png"
+				},
+				{
+					"id":"018",
+					"attr":"电视",
+					"name":"小米电视3s 43英寸",
+					"price":"1799元",
+					"img":"images/navmenu/nav18.png"
+				},
+				{
+					"id":"019",
+					"attr":"电视",
+					"name":"小米电视3s 43英寸",
+					"price":"1799元",
+					"img":"images/navmenu/nav19.png"
+				},
+				{
+					"id":"020",
+					"attr":"电视",
+					"name":"小米电视3s 43英寸",
+					"price":"1799元",
+					"img":"images/navmenu/nav20.png"
+				},
+				{
+					"id":"021",
+					"attr":"电视",
+					"name":"小米电视3s 43英寸",
+					"price":"1799元",
+					"img":"images/navmenu/nav21.jpg"
+				},
+				{
+					"id":"022",
+					"attr":"盒子 · 影音",
+					"name":"小米盒子mini版",
+					"price":"1799元起",
+					"img":"images/navmenu/nav22.jpg"
+				},
+				{
+					"id":"023",
+					"attr":"盒子 · 影音",
+					"name":"小米盒子mini版",
+					"price":"1799元起",
+					"img":"images/navmenu/nav23.jpg"
+				},
+				{
+					"id":"024",
+					"attr":"盒子 · 影音",
+					"name":"小米盒子mini版",
+					"price":"1799元起",
+					"img":"images/navmenu/nav24.jpg"
+				},
+				{
+					"id":"025",
+					"attr":"盒子 · 影音",
+					"name":"小米盒子mini版",
+					"price":"1799元起",
+					"img":"images/navmenu/nav25.jpg"
+				},
+				{
+					"id":"026",
+					"attr":"盒子 · 影音",
+					"name":"小米盒子mini版",
+					"price":"1799元起",
+					"img":"images/navmenu/nav26.jpg"
+				},
+				{
+					"id":"027",
+					"attr":"盒子 · 影音",
+					"name":"小米盒子mini版",
+					"price":"1799元起",
+					"img":"images/navmenu/nav27.jpg"
+				},
+				{
+					"id":"028",
+					"attr":"路由器",
+					"name":"全新小米路由器",
+					"price":"699元",
+					"img":"images/navmenu/nav28.jpg"
+				},
+				{
+					"id":"029",
+					"attr":"路由器",
+					"name":"全新小米路由器",
+					"price":"699元",
+					"img":"images/navmenu/nav29.jpg"
+				},
+				{
+					"id":"030",
+					"attr":"路由器",
+					"name":"全新小米路由器",
+					"price":"699元",
+					"img":"images/navmenu/nav30.jpg"
+				},
+				{
+					"id":"031",
+					"attr":"路由器",
+					"name":"全新小米路由器",
+					"price":"699元",
+					"img":"images/navmenu/nav31.jpg"
+				},
+				{
+					"id":"032",
+					"attr":"路由器",
+					"name":"全新小米路由器",
+					"price":"699元",
+					"img":"images/navmenu/nav32.jpg"
+				},
+				{
+					"id":"033",
+					"attr":"路由器",
+					"name":"全新小米路由器",
+					"price":"699元",
+					"img":"images/navmenu/nav33.jpg"
+				},
+				{
+					"id":"034",
+					"attr":"nav智能硬件",
+					"name":"九号平衡车",
+					"price":"1999元",
+					"img":"images/navmenu/nav34.jpg"
+				},
+				{
+					"id":"035",
+					"attr":"nav智能硬件",
+					"name":"九号平衡车",
+					"price":"1999元",
+					"img":"images/navmenu/nav35.jpg"
+				},
+				{
+					"id":"036",
+					"attr":"nav智能硬件",
+					"name":"九号平衡车",
+					"price":"1999元",
+					"img":"images/navmenu/nav36.jpg"
+				},
+				
+				{
+					"id":"037",
+					"attr":"nav智能硬件",
+					"name":"九号平衡车",
+					"price":"1999元",
+					"img":"images/navmenu/nav37.jpg"
+				},
+				{
+					"id":"038",
+					"attr":"nav智能硬件",
+					"name":"九号平衡车",
+					"price":"1999元",
+					"img":"images/navmenu/nav38.jpg"
+				},
+				{
+					"id":"039",
+					"attr":"nav智能硬件",
+					"name":"九号平衡车",
+					"price":"1999元",
+					"img":"images/navmenu/nav39.jpg"
+				},
+				{
+					"id":"01",
+					"attr":"小米明星单品",
+					"name":"小米5 高配64GB",
+					"desc":"四轴防抖相机 是公交卡也是银行卡",
+					"price":"1799元",
+					"img":"images/img/pic_104.jpg"
+				},
+				{
+					"id":"02",
+					"attr":"小米明星单品",
+					"name":"小米Max",
+					"desc":"大屏幕大电量，电影游戏都很爽",
+					"price":"1799元",
+					"img":"images/img/pic_105.jpg"
+				},
+				{
+					"id":"03",
+					"attr":"小米明星单品",
+					"name":"红米Pro 十核双摄",
+					"desc":"双摄像头手机，像单反一样去拍照",
+					"price":"1799元起",
+					"img":"images/img/pic_106.jpg"
+				},
+				{
+					"id":"04",
+					"attr":"小米明星单品",
+					"name":"小米笔记本",
+					"desc":"独立显卡、超轻薄、金属机身",
+					"price":"3499元起",
+					"img":"images/img/pic_107.jpg"
+				},
+				{
+					"id":"05",
+					"attr":"小米明星单品",
+					"name":"小米平板2 16GB现货",
+					"desc":"轻薄全金属，海量内容",
+					"price":"1799元",
+					"img":"images/img/pic_108.jpg"
+				},
+				{
+					"id":"06",
+					"attr":"小米明星单品",
+					"name":"小米电视3 43英寸",
+					"desc":"高品质原装液晶屏，超薄金属机身",
+					"price":"1799元",
+					"img":"images/img/pic_109.jpg"
+				},
+				{
+					"id":"07",
+					"attr":"小米明星单品",
+					"name":"小米盒子3",
+					"desc":"全新升级 64位 4K网络机顶盒",
+					"price":"249元",
+					"img":"images/img/pic_110.jpg"
+				},
+				{
+					"id":"08",
+					"attr":"小米明星单品",
+					"name":"小米手环 2",
+					"desc":"每天早10点开售",
+					"price":"149元",
+					"img":"images/img/pic_111.jpg"
+				},
+				{
+					"id":"09",
+					"attr":"小米明星单品",
+					"name":"VR眼镜玩具版量产版",
+					"desc":"逼真沉浸感 舒适观看新体验",
+					"price":"49元",
+					"img":"images/img/pic_112.jpg"
+				},
+				{
+					"id":"10",
+					"attr":"小米明星单品",
+					"name":"米兔定位电话",
+					"desc":"时刻定位，守护你所爱",
+					"price":"169元",
+					"img":"images/img/pic_113.jpg"
+				},
+				{
+					"id":"11",
+					"attr":"智能硬件",
+					"name":"小米路由器3",
+					"desc":"小米路由器3",
+					"price":"149元",
+					"img":"images/img/pic_115.jpg"
+				},
+				{
+					"id":"12",
+					"attr":"智能硬件",
+					"name":"米家压力IH电饭煲",
+					"desc":"限时送小米插线板 5孔位",
+					"price":"999元",
+					"img":"images/img/pic_116.jpg"
+				},
+				{
+					"id":"13",
+					"attr":"智能硬件",
+					"name":"小米空气净化器2",
+					"desc":"高效除霾，10分钟换新房间空气",
+					"price":"699元",
+					"img":"images/img/pic_117.jpg"
+				},
+				{
+					"id":"14",
+					"attr":"智能硬件",
+					"name":"九号平衡车",
+					"desc":"年轻人的酷玩具，骑行遥控两种玩法",
+					"price":"1999元",
+					"img":"images/img/pic_118.jpg"
+				},
+				{
+					"id":"15",
+					"attr":"智能硬件",
+					"name":"米兔智能故事机",
+					"desc":"宝宝又不好好吃饭，让米兔来哄宝宝吧",
+					"price":"199元",
+					"img":"images/img/pic_119.jpg"
+				},
+				{
+					"id":"16",
+					"attr":"智能硬件",
+					"name":"电助力折叠自行车",
+					"desc":"力矩传感电助力，折叠便携设计",
+					"price":"2999元",
+					"img":"images/img/pic_120.jpg"
+				},
+				{
+					"id":"17",
+					"attr":"智能硬件",
+					"name":"小米笔记本Air 12.5英寸",
+					"desc":"更轻更薄，像杂志一样随身携带",
+					"price":"3499元",
+					"img":"images/img/pic_121.jpg"
+				},
+				{
+					"id":"18",
+					"attr":"智能硬件",
+					"name":"米家 LED 智能台灯",
+					"desc":"无可视频闪，亮度色温无级调节",
+					"price":"169元",
+					"img":"images/img/pic_122.jpg"
+				}
+
+
+
+
+				],
+				
+	"error_code":0		
+}
